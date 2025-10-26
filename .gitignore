@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS metadata folders
+Icon?
+__MACOSX/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Node / build artifacts (if you use npm, yarn, or similar)
+node_modules/
+dist/
+build/
+
+# Jekyll / GitHub Pages generated site
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Environment files
+.env
+.env.local
+
+# IDE/editor settings
+.vscode/
+.idea/
